@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/CommandLineAPI.csproj": {}
+    "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/src/CommandApi/CommandLineAPI.csproj": {}
   },
   "projects": {
-    "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/CommandLineAPI.csproj": {
+    "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/src/CommandApi/CommandLineAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/CommandLineAPI.csproj",
+        "projectUniqueName": "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/src/CommandApi/CommandLineAPI.csproj",
         "projectName": "CommandLineAPI",
-        "projectPath": "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/CommandLineAPI.csproj",
+        "projectPath": "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/src/CommandApi/CommandLineAPI.csproj",
         "packagesPath": "/Users/swoods/.nuget/packages/",
-        "outputPath": "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/obj/",
+        "outputPath": "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/src/CommandApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/swoods/.nuget/NuGet/NuGet.Config"

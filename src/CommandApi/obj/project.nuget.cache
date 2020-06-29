@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2wAUbPbfa66xBnTt1WAAsWudBB7+2rKXUPgincb9qxoslRdjSj0mEaLnBoIemfjRXScdK2IC53ZPn6oKQdYNYw==",
+  "dgSpecHash": "DuaiO5h0ZCYa28X29OIMsj1UA2ZKG/PShamU1FY0FB3rDrhvXCbVIJ4GxQvQmYoZX1X5rBCwNn4zPGXoDR0mYQ==",
   "success": true,
-  "projectFilePath": "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/CommandLineAPI.csproj",
+  "projectFilePath": "/Users/swoods/Desktop/Desktop – Steven’s Mac/dotnetfiles/API-YT-Course/CommandLineAPI/src/CommandApi/CommandLineAPI.csproj",
   "expectedPackageFiles": [
     "/Users/swoods/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/swoods/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
