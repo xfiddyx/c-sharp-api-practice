@@ -9,8 +9,8 @@ namespace CommandLineAPI.Models
 
   [Required]
   public string HowTo { get; set; }
-  [Required]
 
+  [Required]
   public string Line { get; set; }
 
   [Required]
